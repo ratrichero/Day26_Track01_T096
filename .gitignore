@@ -1,0 +1,16 @@
+# Office & Excel temporary lock files (khi đang mở file excel)
+~$*.xlsx
+~$*.xls
+
+# OS generated files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Editor & IDE configs
+.vscode/
+.idea/
+
+# Logs and temp files
+*.tmp
+*.log
